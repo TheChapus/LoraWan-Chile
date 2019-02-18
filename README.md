@@ -35,4 +35,4 @@ Grafana [Grafana](https://grafana.com/)
 
 Continua ...
 
-/GW/README.md
+[PDF]https://github.com/TheChapus/LoraWan-Chile/blob/master/Dashboard/README.md
