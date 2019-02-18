@@ -34,5 +34,3 @@ EMONCMS [EMONCMS](https://emoncms.org/)
 Grafana [Grafana](https://grafana.com/)
 
 Continua ...
-
-[PDF](https://github.com/TheChapus/LoraWan-Chile/blob/master/Dashboard/Hola%20mindo.pdf)
