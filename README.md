@@ -15,12 +15,12 @@ Lopy                                       [Lopy](https://pycom.io/product/lopy4
 
 Dragino Lora/GPS_HAT para Raspberry Pi     [Aliexpress](http://github.com)
 
-RAK831                                     [Aliexpress](http://github.com)
+RAK831 [Aliexpress](http://github.com)
 
 
 ### Servidores
 
-TTN                                         [TTN](https://www.thethingsnetwork.org)
+TTN [TTN](https://www.thethingsnetwork.org)
 
 LoraServer  [LoraServer](https://www.loraserver.io)
 
@@ -34,3 +34,5 @@ EMONCMS [EMONCMS](https://emoncms.org/)
 Grafana [Grafana](https://grafana.com/)
 
 Continua ...
+
+/GW/README.md
